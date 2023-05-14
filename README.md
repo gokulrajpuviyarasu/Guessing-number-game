@@ -2,6 +2,5 @@
 
 
  - Medical Electronic Systems - Task
+ - [Go to the deployment link](https://guessing-number-game-zeta.vercel.app/)
 
-
-<img src="Pictures\Screenshots\Screenshot (87).png" alt="isolated" width="200"/>
